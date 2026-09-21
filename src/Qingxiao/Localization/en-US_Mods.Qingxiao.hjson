@@ -1,0 +1,6 @@
+Items: {
+	WindofTranscendenceItem: {
+		DisplayName: Wind of Transcendence
+		Tooltip: ""
+	}
+}

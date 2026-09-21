@@ -1,0 +1,9 @@
+displayName = Qingxiao
+author = nakamurash
+version = 0.1
+homepage = https://github.com/nakamurashdev/qingxiao
+
+includeSource = true
+
+hideCode = false
+hideResources = false
